@@ -5,6 +5,13 @@ body{
   font-family: verdana;
 }
 
+.move{
+  background: url(../img/hd-desktop-wallpaper-22.jpg);
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 800px;
+}
+
 h1{
   color: #fff;
   text-align: center;
